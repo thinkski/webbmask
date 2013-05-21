@@ -24,8 +24,3 @@ Change these to match your oscilloscope. Then open the file with your favorite
 Postscript or PDF viewer and print it onto a transparency. Cut it out and lay
 it on your oscilloscope screen, using a bit of tape if necessary to keep it
 in place.
-
-Contact
-=======
-
-Questions, feedback, etc. should be sent to Chris Hiszpanski <chiszp@gmail.com>
