@@ -14,11 +14,13 @@ To customize the mask for your oscilloscope, measure the size of your display.
 It is assumed the size is square. Then open the webbmask.ps file in a text
 editor and look for the following lines:
 
+```
  % screen size in inches
  /screen 5 def
 
  % display size in inches
  /screen 4.5 def
+```
 
 Change these to match your oscilloscope. Then open the file with your favorite
 Postscript or PDF viewer and print it onto a transparency. Cut it out and lay
